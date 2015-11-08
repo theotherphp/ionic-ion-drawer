@@ -1,7 +1,7 @@
 drawer {
   display: block;
   position: fixed;
-  width: 50%;
+  width: 70%;
   height: 100%;
   z-index: 100;
   background-color: white;
